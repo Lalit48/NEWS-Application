@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application news</string>
+    <string name="api_key">e21f1ed4881c4909b0e4898edd20eeb5</string>
+    <string name="todo">TODO</string>
+</resources>
