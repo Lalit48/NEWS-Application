@@ -1,8 +1,5 @@
 # NEWS-Application
 
-Sure! Here's a basic outline of features and a description for a news application built in Java with the use of APIs:
-
-- Description:
 The news application is a platform that aggregates news articles from various sources and presents them to users in a user-friendly manner. It allows users to stay updated with the latest news across different categories such as politics, technology, sports, entertainment, etc. The application leverages APIs provided by news sources to fetch real-time news data.
 
 - Features:
