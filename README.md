@@ -3,8 +3,11 @@
 The news application is a platform that aggregates news articles from various sources and presents them to users in a user-friendly manner. It allows users to stay updated with the latest news across different categories such as politics, technology, sports, entertainment, etc. The application leverages APIs provided by news sources to fetch real-time news data.
 
 
-- Features:![WhatsApp Image 2024-05-25 at 00 25 01_f1d2887f](https://github.com/Lalit48/NEWS-Application/assets/132306853/4be2e9e9-023a-42b4-9ad5-e595d1e73cc3)
+![WhatsApp Image 2024-05-25 at 00 25 01_f1d2887f](https://github.com/Lalit48/NEWS-Application/assets/132306853/4be2e9e9-023a-42b4-9ad5-e595d1e73cc3)
 
+
+
+- Features:
 
 
 1. User Authentication: Allow users to register and log in securely to personalize their news feed and save preferences.
