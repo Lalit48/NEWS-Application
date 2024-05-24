@@ -39,3 +39,6 @@ The news application is a platform that aggregates news articles from various so
 14. Security Measures: Implement security measures such as encryption for user data, secure API communication, and protection against common vulnerabilities like SQL injection and cross-site scripting (XSS).
 
 By incorporating these features, the news application can provide users with a comprehensive and engaging experience, keeping them informed about the latest developments around the world.
+
+DRIVE LINK - https://drive.google.com/drive/folders/1mwG9c8v4Ujc-zqLnnudvROppddI8sndk?usp=sharing
+
